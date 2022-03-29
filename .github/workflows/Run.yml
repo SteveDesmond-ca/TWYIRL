@@ -1,0 +1,38 @@
+name: Run
+
+on:
+  push:
+    branches:
+    - 'main'
+  schedule:
+  - cron:  '25 * * * *'
+
+jobs:
+  Run:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/New_York
+
+    steps:
+    - name: We don't have trouble sleeping
+      run: echo "hour=$(date +%I)" >> $GITHUB_ENV
+
+    - uses: actions/checkout@v3
+      if: ${{ env.hour == 11 }}
+
+    - name: Setup .NET
+      if: ${{ env.hour == 11 }}
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: 6.0.x
+
+    - name: Run
+      if: ${{ env.hour == 11 }}
+      run: dotnet run -c Release
+      working-directory: TWYrefs
+      env:
+        ConsumerKey: ${{secrets.ConsumerKey}}
+        ConsumerSecret: ${{secrets.ConsumerSecret}}
+        ConsumerToken: ${{secrets.ConsumerToken}}
+        AccessKey: ${{secrets.AccessKey}}
+        AccessSecret: ${{secrets.AccessSecret}}
