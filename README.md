@@ -2,13 +2,13 @@
 
 Tweeting The Wonder Years lyrics referencing real life things
 
-[![Run](https://github.com/SteveDesmond-ca/TWYrefs/actions/workflows/Run.yml/badge.svg)](https://github.com/SteveDesmond-ca/TWYrefs/actions/workflows/Run.yml)
-[![CI](https://github.com/SteveDesmond-ca/TWYrefs/actions/workflows/CI.yml/badge.svg)](https://github.com/SteveDesmond-ca/TWYrefs/actions/workflows/CI.yml)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=SteveDesmond-ca_TWYrefs&metric=coverage)](https://sonarcloud.io/summary/new_code?id=SteveDesmond-ca_TWYrefs)
+[![Run](https://github.com/SteveDesmond-ca/TWYIRL/actions/workflows/Run.yml/badge.svg)](https://github.com/SteveDesmond-ca/TWYIRL/actions/workflows/Run.yml)
+[![CI](https://github.com/SteveDesmond-ca/TWYIRL/actions/workflows/CI.yml/badge.svg)](https://github.com/SteveDesmond-ca/TWYIRL/actions/workflows/CI.yml)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=SteveDesmond-ca_TWYIRL&metric=coverage)](https://sonarcloud.io/summary/new_code?id=SteveDesmond-ca_TWYIRL)
 
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=SteveDesmond-ca_TWYrefs&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=SteveDesmond-ca_TWYrefs)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=SteveDesmond-ca_TWYrefs&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=SteveDesmond-ca_TWYrefs)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=SteveDesmond-ca_TWYrefs&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=SteveDesmond-ca_TWYrefs)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=SteveDesmond-ca_TWYIRL&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=SteveDesmond-ca_TWYIRL)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=SteveDesmond-ca_TWYIRL&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=SteveDesmond-ca_TWYIRL)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=SteveDesmond-ca_TWYIRL&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=SteveDesmond-ca_TWYIRL)
 
 Follow [@TWYIRL on Twitter](https://twitter.com/TWYIRL) for the tweets.
 

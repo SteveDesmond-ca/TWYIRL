@@ -2,12 +2,12 @@ using System.IO.Abstractions;
 using System.Security.Cryptography;
 using Tweetinvi;
 
-namespace TWYrefs;
+namespace TWYIRL;
 
 public static class Factory
 {
 	public static App App()
-		=> new (new FileSystem(), Twitter(), RandomNumberGenerator.GetInt32, Console.WriteLine);
+		=> new(new FileSystem(), Twitter(), RandomNumberGenerator.GetInt32, Console.WriteLine);
 
 	private static ITwitterClient Twitter()
 	{

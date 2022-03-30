@@ -29,7 +29,7 @@ jobs:
     - name: Run
       if: ${{ env.hour == 11 }}
       run: dotnet run -c Release
-      working-directory: TWYrefs
+      working-directory: TWYIRL
       env:
         ConsumerKey: ${{secrets.ConsumerKey}}
         ConsumerSecret: ${{secrets.ConsumerSecret}}
