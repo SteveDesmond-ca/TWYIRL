@@ -9,6 +9,6 @@
   <ItemGroup>
     <PackageReference Include="System.IO.Abstractions" Version="16.1.25" />
     <PackageReference Include="TweetinviAPI" Version="5.0.4" />
-	<None Include="refs.txt" CopyToOutputDirectory="PreserveNewest"/>
+	<None Include="lyrics.md" CopyToOutputDirectory="PreserveNewest"/>
   </ItemGroup>
 </Project>

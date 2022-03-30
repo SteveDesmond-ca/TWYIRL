@@ -24,8 +24,8 @@ public class App
 	{
 		try
 		{
-			var lyrics = GetLyrics("refs.txt");
-			var tweets = GetTweets("TWY_refs");
+			var lyrics = GetLyrics("lyrics.md");
+			var tweets = GetTweets("TWYIRL");
 			var random = GetNewRef(await lyrics, await tweets);
 			await Tweet(random);
 			return 0;

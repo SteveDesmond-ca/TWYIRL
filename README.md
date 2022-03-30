@@ -1,6 +1,6 @@
-# @TWY_refs
+# TWY IRL bot
 
-Tweeting lyrics by The Wonder Years that reference other things
+Tweeting The Wonder Years lyrics referencing real life things
 
 [![Run](https://github.com/SteveDesmond-ca/TWYrefs/actions/workflows/Run.yml/badge.svg)](https://github.com/SteveDesmond-ca/TWYrefs/actions/workflows/Run.yml)
 [![CI](https://github.com/SteveDesmond-ca/TWYrefs/actions/workflows/CI.yml/badge.svg)](https://github.com/SteveDesmond-ca/TWYrefs/actions/workflows/CI.yml)
@@ -10,11 +10,11 @@ Tweeting lyrics by The Wonder Years that reference other things
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=SteveDesmond-ca_TWYrefs&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=SteveDesmond-ca_TWYrefs)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=SteveDesmond-ca_TWYrefs&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=SteveDesmond-ca_TWYrefs)
 
-Follow [@TWY_refs on Twitter](https://twitter.com/TWY_refs) for the tweets.
+Follow [@TWYIRL on Twitter](https://twitter.com/TWYIRL) for the tweets.
 
 ## Contribute Lyrics
 
-If you'd like to contribute lyrics to this bot's repertoire, please DM the bot or create an issue here.
+If you'd like to contribute lyrics to this bot's repertoire, please first check [the list](lyrics.md), then DM the bot or create an issue [here]().
 
 ## Requirements
 
