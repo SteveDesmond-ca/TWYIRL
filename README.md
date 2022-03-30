@@ -14,7 +14,7 @@ Follow [@TWYIRL on Twitter](https://twitter.com/TWYIRL) for the tweets.
 
 ## Contribute Lyrics
 
-If you'd like to contribute lyrics to this bot's repertoire, please first check [the list](lyrics.md), then DM the bot or create an issue [here]().
+If you'd like to contribute lyrics to this bot's repertoire, please first check [the list](TWYIRL/lyrics.md?plain=1), then DM the bot or create an issue [here](https://github.com/SteveDesmond-ca/TWYIRL/issues/new?template=new-lyrics.md).
 
 ## Requirements
 
