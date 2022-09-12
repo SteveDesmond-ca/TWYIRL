@@ -7,7 +7,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="System.IO.Abstractions" Version="17.1.1"/>
+		<PackageReference Include="System.IO.Abstractions" Version="17.2.1"/>
 		<PackageReference Include="TweetinviAPI" Version="5.0.4"/>
 		<None Include="lyrics.md" CopyToOutputDirectory="PreserveNewest"/>
 	</ItemGroup>
